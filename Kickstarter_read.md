@@ -2,7 +2,7 @@
 
 #### High level description of project: as an idea to check if there is a way to predict (find a relationships) a successful project on kickstarter.
 
-[More detailed scrypt] ()
+[More detailed scrypt] (https://github.com/Nadinma/Kickstarter-projects/blob/main/kickstarter_capstone.ipynb)
 
 ### Intro
 
@@ -142,7 +142,7 @@ Journalism       1012
 #### How Projects growth changed between 2009-2018
 The graph below shows the number of projects launched on Kickstarter from 2009 to end of 2017 (2018 is not included). The first graph is showing growing numbers each year and the second graph is showing growing numbers within the same period of time, but each month.
 
-#### SCREEN#1
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen1.png)
 
 The number of projects steadily grows from 2009 up to the middle of 2014. Projects started growing fast in 2014 and decreasing between 20015 and 2016.
 On October 31 of 2012 Kickstarter opened projects based in the UK, followed by Canada in 2013, Australia and New Zealand and etc.
