@@ -4,7 +4,11 @@
 
 ### Intro
 
-This project explored a dataset of about 378660 Kickstarter projects. Kickstarter is one of the popular crowdfunding platforms along with Indiegogo. The dataset was obtained from https://www.kaggle.com/kemical/kickstarter-projects. The explored datset contains data about projects from 2009 (when the platfrom was launched) up to 2018. It has a few projects from 1970 (not sure what they are). 
+This project explored a dataset of about 378660 Kickstarter projects. Kickstarter is one of the popular crowdfunding platforms along with Indiegogo. The dataset was obtained from https://www.kaggle.com/kemical/kickstarter-projects. The explored dataset contains data about projects from 2009 (when the platform was launched) up to January 2018. It has a few projects from 1970 (they were dropped during exploration). 
+
+I checked if there are duplicates in the dataset. From 378661 projects in the dataset there are not duplicates. 
+Although the dataset was already cleaned, but some data still needed to be converted or seperated to get extra infomation. First I converted data from column "launched" (datetime data) to dtype('<M8[ns]'), which helped me to seperate days, months, years and hours when projects were launched. 
+
 Here is some basic statistics / numbers about the dataset.
 
 1. "ID"
