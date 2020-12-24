@@ -2,7 +2,7 @@
 
 #### High level description of project: as an idea to check if there is a way to predict (find a relationships) a successful project on kickstarter.
 
-[More detailed scrypt] (https://github.com/Nadinma/Kickstarter-projects/blob/main/kickstarter_capstone.ipynb)
+[More detailed scrypt](https://github.com/Nadinma/Kickstarter-projects/blob/main/kickstarter_capstone.ipynb)
 
 ### Intro
 
