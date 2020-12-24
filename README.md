@@ -142,7 +142,8 @@ Journalism       1012
 #### How Projects growth changed between 2009-2018
 The graph below shows the number of projects launched on Kickstarter from 2009 to end of 2017 (2018 is not included). The first graph is showing growing numbers each year and the second graph is showing growing numbers within the same period of time, but each month.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen1.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen1.png)
+
 
 
 The number of projects steadily grows from 2009 up to the middle of 2014. Projects started growing fast in 2014 and decreasing between 20015 and 2016.
@@ -155,7 +156,7 @@ The bar charts below show failed vs successful projects between 2009 and 2018 (2
 
 Projects have more than two states (failed or successful). I am planning to drop other raws and plot only failed and successful projects below and in the futures graphs.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen4.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen4.png)
 
 
 #### The difference between successful and failed projects
@@ -169,7 +170,7 @@ The graphs below show how various features differ between failed and successful 
 3. There is a large difference between failed and successful in terms of amount pledged and the number of backers. I am assuming once potential supporters see that a project is picking up and doing well, they are willing to fund and be part of the future success.
 4. Campaign length and the project name length doesn't differ much, campaigns are slightly shorter for successful projects. 
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen3.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen3.png)
 
 #### Categories of projects launched and which are more successful
 1. There are 15 project main categories (which are divided into more narrow categoris), where film & video is the most popular, followed by music, publishing, and games.
@@ -180,19 +181,19 @@ The graphs below show how various features differ between failed and successful 
 6. Comics and games are attracting the most amount of backers, but less amount pledged per backer.
 7. Dance, design and film & video get more money per backer.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen5.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen5.png)
 
 #### Projects origin
 1. Most of the projects are coming from the US following by the UK. The number of US projects is much higher than from other countries. is six times more than projects from other countries.
 2. If we look at the most amount of backers, pledged amount and median pledged Hong Kong is the most successful country.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen6.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen6.png)
 
 #### Project Launch Weekday
 1. Tuesday is the best day to launch a project. It is the most popular launch day, and there is the highest amount of successful projects launched on Tuesday. Tuesday is the most successful day in all categories - amoutn of backers, the highest median pledged per backer, and the highest median pledge amount.
 2. Saturday and Sunday are the least popular days for any project activities.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen7.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen7.png)
 
 #### Project Launch Month¶
 1. The most popular months for project launch are September, October, November, and the least popular are July and January.
@@ -200,18 +201,18 @@ The graphs below show how various features differ between failed and successful 
 3. Median goal sizes are similar throughout the year.
 4. The best month to launch in is October. It's demonstrating the highest median amount pledged per project, ine of the the highest amount of successful projects, the highest number of backers per project.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen8.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen8.png)
 
 #### Launch Time
 1. The most number of projects launched is between 4-6pm (GMT) - 8-10am PST.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen9.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen9.png)
 
 #### Campaign Length for Successful Projects
 1. The shortest campaign length was 1 days and the longest campaign length was 92 days. 
 2. Based on given stats we can see that the most number of successful projects have a campaign length of about 30 days. 
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen10.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen10.png)
 
 The dataset was not suited for hypothesis testing since it was all possible (population) data between 2009 and 2018. But potentially and as a further project development it's possible to continue working with additional data between 2018 and 2020. the mentioned data is avalaible, but needs more time to work with, which includes more data cleaning. 
 
