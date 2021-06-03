@@ -152,7 +152,7 @@ I am assuming a few reasons for such growth and then decrease: 1) looks like by 
 
 The bar charts below show failed vs successful projects between 2009 and 2018 (2018 is not included). We can see that starting from 2013 the number and of failed and successful projects start becoming even.
 
-![] (https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen2.png)
+![](https://github.com/Nadinma/Kickstarter-projects/blob/main/images/screen2.png)
 
 Projects have more than two states (failed or successful). I am planning to drop other raws and plot only failed and successful projects below and in the futures graphs.
 
